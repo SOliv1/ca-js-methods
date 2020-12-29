@@ -9,7 +9,7 @@ We can include methods in our object literals by creating ordinary, comma-separa
 
 
 ### OBJECTS
-Pass By Reference
+#### Pass By Reference
 Objects are passed by reference. This means when we pass a variable assigned to an object into a function as an argument, the computer interprets the parameter name as pointing to the space in memory holding that object. As a result, functions which change object properties actually mutate the object permanently (even when the object is assigned to a const variable).
 
 >const spaceship = {
@@ -27,5 +27,15 @@ Objects are passed by reference. This means when we pass a variable assigned to 
  
 Our function paintIt() permanently changed the color of our spaceship object. However, reassignment of the spaceship variable wouldn’t work in the same way:
 
-### View code here
+### View code here:
 https://gist.github.com/040f0650966c9f349ee673cd8bf5c613
+
+
+### OBJECTS
+#### Looping Through Objects
+Loops are programming tools that repeat a block of code until a condition is met. We learned how to iterate through arrays using their numerical indexing, but the key-value pairs in objects aren’t ordered! JavaScript has given us alternative solution for iterating through objects with the for...in syntax .
+
+for...in will execute a given block of code for each property in an object.
+
+### View code here:
+https://gist.github.com/be034b3a8697d5c56c3ab3f864ad98a4
