@@ -51,3 +51,7 @@ We can navigate complex, nested objects by chaining operators.
 Objects are mutable—we can change their properties even when they’re declared with const.
 Objects are passed by reference— when we make changes to an object passed into a function, those changes are permanent.
 We can iterate through objects using the For...in syntax.
+
+## objects in JavaScript are containers that store data and functionality. In this lesson, we will build upon the fundamentals of creating objects and explore some advanced concepts.
+
+
