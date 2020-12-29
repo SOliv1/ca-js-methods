@@ -1,4 +1,4 @@
-# ca-js-methods
+# ca-js-methods and objects
 
 ### Methods
 When the data stored on an object is a function we call that a method. A property is what an object has, while a method is what an object does.
