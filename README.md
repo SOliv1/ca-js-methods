@@ -54,4 +54,7 @@ We can iterate through objects using the For...in syntax.
 
 ## objects in JavaScript are containers that store data and functionality. In this lesson, we will build upon the fundamentals of creating objects and explore some advanced concepts.
 
+### Read the rest of the codes on mydev gists here:
+https://github.com/SOliv1/ca-js-methods/commit/9072dc166d4a7c8ea11c7a5659d235a973213ba1?branch=9072dc166d4a7c8ea11c7a5659d235a973213ba1&diff=unified#commitcomment-45505920
+
 
